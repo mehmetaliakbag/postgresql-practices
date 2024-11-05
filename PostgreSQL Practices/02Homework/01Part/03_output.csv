@@ -1,0 +1,5 @@
+"customer_id","store_id","first_name","last_name","email","address_id","activebool","create_date","last_update","active"
+598,1,"Wade","Delvalle","wade.delvalle@sakilacustomer.org",604,True,"2006-02-14","2013-05-26 14:49:45.738",1
+597,1,"Freddie","Duggan","freddie.duggan@sakilacustomer.org",603,True,"2006-02-14","2013-05-26 14:49:45.738",1
+596,1,"Enrique","Forsythe","enrique.forsythe@sakilacustomer.org",602,True,"2006-02-14","2013-05-26 14:49:45.738",1
+595,1,"Terrence","Gunderson","terrence.gunderson@sakilacustomer.org",601,True,"2006-02-14","2013-05-26 14:49:45.738",1
